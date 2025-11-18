@@ -14,6 +14,7 @@ A collection of JavaScript fundamentals and examples to learn core concepts.
 - `7-multi_c.js` - Print "C is fun" x times
 - `8-square.js` - Print a square of X characters
 - `9-add.js` - Add two integers using a function
+- `10-factorial.js` - Compute factorial recursively
 
 ## Getting Started
 
